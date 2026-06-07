@@ -14,6 +14,10 @@ I am a second-year of master student at The University of Tokyo where I am major
 Human skill understanding in video\
 Hand object interaction
 
+## Domestic Comference
+- <u>Rie Yoshioka</u> and Kazutaka Kurihara, "AugmentedDecisions: 判断能力の拡張を目的とした機械学習予測提示インタフェースの検討," エンタテインメントコンピューティングシンポジウム2025, 論文集2025 p. 218-225, 2025-08-18. https://ec2025.entcomp.org/program/ (In Japanese). [[Proc.]](https://ipsj.ixsq.nii.ac.jp/records/2003677)
+- <u>Rie Yoshioka</u> and Daisuke Sugimura, “In-Air Writing Authentication using Recurrent Neural Networks,” The Institute of Electronics, Information and Communication Engineers General Conference 2024, Hiroshima University, 7 March, 2024. https://pub.confit.atlas.jp/ja/event/general2024/presentation/D-12B-16  (In Japanese). [[PDF]](https://drive.google.com/file/d/1NjCGtUBL-Jo2mJaRtByzdK41CbO1wpso/view)
+
 ## Awards
 - [HeroseLeague 2024](https://heroes-league.net/)
   - 12-30 November, 2024. Myヒーロー賞 [(toioとM5StackやxModによるインパクトある作品で賞)](https://protopedia.net/event/hl2024#:~:text=toio%E3%81%A8M5Stack%E3%82%84xMod%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%82%E3%82%8B%E4%BD%9C%E5%93%81%E3%81%A7%E8%B3%9E%20by%20akichika) . (December 2024)  [Link](https://www.tsuda.ac.jp/news/2024/1227.html)
