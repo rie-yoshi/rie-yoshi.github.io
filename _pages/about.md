@@ -10,7 +10,7 @@ redirect_from:
 I am a second-year of master student at The University of Tokyo where I am majoring in Interdisciplinary Information Studies. My areas of research interests are Computer Vision, Human-Object Interaction Recognition, and Human Motion Recognition. 
 
 
-### Research Interests
+## Research Interests
 Human skill understanding in video
 Hand object interaction
 
