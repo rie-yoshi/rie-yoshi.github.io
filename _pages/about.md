@@ -11,7 +11,7 @@ I am a second-year of master student at The University of Tokyo where I am major
 
 
 ## Research Interests
-Human skill understanding in video
+Human skill understanding in video\
 Hand object interaction
 
 Getting started
