@@ -15,9 +15,11 @@ Human skill understanding in video\
 Hand object interaction
 
 ## Awards
-[HeroseLeague 2024](https://heroes-league.net/) \ 12-30 November, 2024. Myヒーロー賞 [(toioとM5StackやxModによるインパクトある作品で賞)](https://protopedia.net/event/hl2024#:~:text=toio%E3%81%A8M5Stack%E3%82%84xMod%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%82%E3%82%8B%E4%BD%9C%E5%93%81%E3%81%A7%E8%B3%9E%20by%20akichika) . (December 2024)  [Link](https://www.tsuda.ac.jp/news/2024/1227.html) \
+[HeroseLeague 2024](https://heroes-league.net/)\
+12-30 November, 2024. Myヒーロー賞 [(toioとM5StackやxModによるインパクトある作品で賞)](https://protopedia.net/event/hl2024#:~:text=toio%E3%81%A8M5Stack%E3%82%84xMod%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%81%82%E3%82%8B%E4%BD%9C%E5%93%81%E3%81%A7%E8%B3%9E%20by%20akichika) . (December 2024)  [Link](https://www.tsuda.ac.jp/news/2024/1227.html)\
 **Umeko Tsuda Memorial Alumni Association Awards**(*2) (May 2024) \
-**Project award** \ In a required course in which students develop their own systems (December 2023) \
+**Project award**\
+In a required course in which students develop their own systems (December 2023) \
 **Umeko scholarship**(*1) 2023 (September 2023) \
 **Umeko scholarship**(*1) 2022 (July 2022)
 
