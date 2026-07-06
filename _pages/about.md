@@ -29,6 +29,10 @@ Hand object interaction
 *(\*1) Umeko scholarship: Award to outstanding students for academic achievement and personal qualities, recommended by each department, who are in their second year or above.* [Link](https://www.tsuda.ac.jp/student-life/scholarship/detail.html#:~:text=%E6%A2%85%E5%AD%90%E3%82%B9%E3%82%AB%E3%83%A9%E3%82%B7%E3%83%83%E3%83%97%EF%BC%88%E5%AD%A6%E6%A5%AD%EF%BC%89) \
 *(\*2) Umeko Tsuda Memorial Alumni Association Awards: Award to a senior undergraduate student with excellent academic performance and character, and a rich spirit of service.* [Link](https://www.tsuda.ac.jp/student-life/scholarship/detail.html#:~:text=%E6%B4%A5%E7%94%B0%E6%A2%85%E5%AD%90%E8%A8%98%E5%BF%B5%E5%90%8C%E7%AA%93%E4%BC%9A%E8%B3%9E)
 
+## Skills
+### Certifications
+- Japan Teachers' License for Junior High School (Mathematics)
+- Japan Teachers' License for High School (Mathematics, Information Study)
 
 <!--
 Getting started
