@@ -16,7 +16,7 @@ Hand object interaction
 
 ## Domestic Conference
 - <u>Rie Yoshioka</u> and Kazutaka Kurihara, "AugmentedDecisions: 判断能力の拡張を目的とした機械学習予測提示インタフェースの検討," [エンタテインメントコンピューティングシンポジウム2025](https://ec2025.entcomp.org/program/), 論文集2025 p. 218-225, 2025-08-18. (In Japanese). [[Proc.](https://ipsj.ixsq.nii.ac.jp/records/2003677)]
-- <u>Rie Yoshioka</u> and Daisuke Sugimura, “In-Air Writing Authentication using Recurrent Neural Networks,” [The Institute of Electronics, Information and Communication Engineers General Conference 2024](https://pub.confit.atlas.jp/ja/event/general2024/presentation/D-12B-16), Hiroshima University, 7 March, 2024. (In Japanese). [[PDF](https://drive.google.com/file/d/1NjCGtUBL-Jo2mJaRtByzdK41CbO1wpso/view)]
+- <u>Rie Yoshioka</u> and Daisuke Sugimura, “In-Air Writing Authentication using Recurrent Neural Networks,” [電子情報通信学会総合大会 2024](https://pub.confit.atlas.jp/ja/event/general2024/presentation/D-12B-16), Hiroshima University, 7 March, 2024. (In Japanese). [[PDF](https://drive.google.com/file/d/1NjCGtUBL-Jo2mJaRtByzdK41CbO1wpso/view)]
 
 ## Awards
 - [HeroseLeague 2024](https://heroes-league.net/)
