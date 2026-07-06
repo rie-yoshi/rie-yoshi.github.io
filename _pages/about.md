@@ -34,6 +34,9 @@ Hand object interaction
 - Japan Teachers' License for Junior High School (Mathematics)
 - Japan Teachers' License for High School (Mathematics, Information Study)
 
+### My Works
+- See this site: [https://sites.google.com/view/rieyoshioka/home](https://sites.google.com/view/rieyoshioka/home)
+
 <!--
 Getting started
 ======
