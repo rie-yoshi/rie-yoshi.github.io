@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div markdown="1" class="about-content">
+
 I am a second-year of master student at The University of Tokyo where I am majoring in Interdisciplinary Information Studies. My areas of research interests are Computer Vision, Human-Object Interaction Recognition, and Human Motion Recognition. 
 
 
@@ -36,6 +38,8 @@ Hand object interaction
 
 ### My Works
 - See this site: [https://sites.google.com/view/rieyoshioka/home](https://sites.google.com/view/rieyoshioka/home)
+
+</div>
 
 <!--
 Getting started
